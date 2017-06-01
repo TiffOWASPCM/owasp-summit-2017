@@ -34,3 +34,4 @@ The food main points will be located at the following villas:
 - coffee
 - tea
 
+Title: Food Restrictions and Allergies 
